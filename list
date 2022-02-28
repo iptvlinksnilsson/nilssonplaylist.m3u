@@ -1,0 +1,408 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 LDC HD" tvg-logo="" group-title="|EU| FRANCE SPORTS",beIN SPORTS 1 LDC HD
+
+http://comag.rip:8000/50489460623113/30540817114152/190952
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 LDC HD" tvg-logo="" group-title="|EU| FRANCE SPORTS",beIN SPORTS 2 LDC HD
+
+http://comag.rip:8000/50489460623113/30540817114152/190951
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 LDC HD" tvg-logo="" group-title="|EU| FRANCE SPORTS",beIN SPORTS 3 LDC HD
+
+http://comag.rip:8000/50489460623113/30540817114152/190950
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 4 LDC HD" tvg-logo="" group-title="|EU| FRANCE SPORTS",beIN SPORTS MAX 4 LDC HD
+
+http://comag.rip:8000/50489460623113/30540817114152/190949
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 5 LDC HD" tvg-logo="" group-title="|EU| FRANCE SPORTS",beIN SPORTS MAX 5 LDC HD
+http://comag.rip:8000/50489460623113/30540817114152/190948
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 6 LDC HD" tvg-logo="" group-title="|EU| FRANCE SPORTS",beIN SPORTS MAX 6 LDC HD
+
+http://comag.rip:8000/50489460623113/30540817114152/190947
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 7 LDC HD" tvg-logo="" group-title="|EU| FRANCE SPORTS",beIN SPORTS MAX 7 LDC HD
+
+http://comag.rip:8000/50489460623113/30540817114152/190946
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAl+ LDC FULL HD" tvg-logo="" group-title="|EU| FRANCE SPORTS",CANAl+ LDC FULL HD
+
+http://comag.rip:8000/50489460623113/30540817114152/190945
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAl+ LDC HD" tvg-logo="" group-title="|EU| FRANCE SPORTS",CANAl+ LDC HD
+
+http://comag.rip:8000/50489460623113/30540817114152/190944
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAl+ SPORT LDC FULL HD" tvg-logo="" group-title="|EU| FRANCE SPORTS",CANAl+ SPORT LDC FULL HD
+
+http://comag.rip:8000/50489460623113/30540817114152/190943
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAl+ SPORT LDC HD" tvg-logo="" group-title="|EU| FRANCE SPORTS",CANAl+ SPORT LDC HD
+
+http://comag.rip:8000/50489460623113/30540817114152/190942
+
+#EXTINF:-1 tvg-id="" tvg-name="---------- TNT-SAT ----------" tvg-logo="http://178.33.72.149/logo/FR/tnt%20sat%20hevc.png" group-title="|EU| FRANCE TNTSAT",---------- TNT-SAT ----------
+
+http://comag.rip:8000/50489460623113/30540817114152/64491
+
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 SD" tvg-logo="http://178.33.72.149/logo/FR/tfi%20sd.png" group-title="|EU| FRANCE TNTSAT",TF1 SD
+
+http://comag.rip:8000/50489460623113/30540817114152/80982
+
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 HD" tvg-logo="http://178.33.72.149/logo/FR/tfi%20hd.png" group-title="|EU| FRANCE TNTSAT",TF1 HD
+
+http://comag.rip:8000/50489460623113/30540817114152/58
+
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 FULL HD" tvg-logo="http://178.33.72.149/logo/FR/tf1%20full%20hd.png" group-title="|EU| FRANCE TNTSAT",TF1 FULL HD
+
+http://comag.rip:8000/50489460623113/30540817114152/23762
+
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 FULL HD 1" tvg-logo="http://178.33.72.149/logo/FR/tf1%20full%20hd.png" group-title="|EU| FRANCE TNTSAT",TF1 FULL HD 1
+
+http://comag.rip:8000/50489460623113/30540817114152/23761
+
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="FRANCE 2 SD" tvg-logo="http://178.33.72.149/logo/FR/france%202%20sd.png" group-title="|EU| FRANCE TNTSAT",FRANCE 2 SD
+
+http://comag.rip:8000/50489460623113/30540817114152/80983
+
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="FRANCE 2 HD" tvg-logo="http://178.33.72.149/logo/FR/france%202%20hd.png" group-title="|EU| FRANCE TNTSAT",FRANCE 2 HD
+
+http://comag.rip:8000/50489460623113/30540817114152/137
+
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="FRANCE 2 FULL HD" tvg-logo="http://178.33.72.149/logo/FR/france%202%20full%20hd.png" group-title="|EU| FRANCE TNTSAT",FRANCE 2 FULL HD
+
+http://comag.rip:8000/50489460623113/30540817114152/23760
+
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="FRANCE 3 SD" tvg-logo="http://178.33.72.149/logo/FR/france%203%20sd.png" group-title="|EU| FRANCE TNTSAT",FRANCE 3 SD
+
+http://comag.rip:8000/50489460623113/30540817114152/80984
+
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="FRANCE 3 HD" tvg-logo="http://178.33.72.149/logo/FR/france%203%20hd.png" group-title="|EU| FRANCE TNTSAT",FRANCE 3 HD
+
+http://comag.rip:8000/50489460623113/30540817114152/61
+
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="FRANCE 3 FULL HD" tvg-logo="http://178.33.72.149/logo/FR/france%203%20full%20hd.png" group-title="|EU| FRANCE TNTSAT",FRANCE 3 FULL HD
+
+http://comag.rip:8000/50489460623113/30540817114152/23759
+
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="FRANCE 4 SD" tvg-logo="http://178.33.72.149/logo/FR/france%204%20sd.png" group-title="|EU| FRANCE TNTSAT",FRANCE 4 SD
+
+http://comag.rip:8000/50489460623113/30540817114152/80985
+
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="FRANCE 4 HD" tvg-logo="http://178.33.72.149/logo/FR/france%204%20hd.png" group-title="|EU| FRANCE TNTSAT",FRANCE 4 HD
+
+http://comag.rip:8000/50489460623113/30540817114152/60
+
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="FRANCE 4 FULL HD" tvg-logo="http://178.33.72.149/logo/FR/france%204%20full%20hd.png" group-title="|EU| FRANCE TNTSAT",FRANCE 4 FULL HD
+
+http://comag.rip:8000/50489460623113/30540817114152/23758
+
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="FRANCE 5 SD" tvg-logo="http://178.33.72.149/logo/FR/france%205%20sd.png" group-title="|EU| FRANCE TNTSAT",FRANCE 5 SD
+
+http://comag.rip:8000/50489460623113/30540817114152/80986
+
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="FRANCE 5 HD" tvg-logo="http://178.33.72.149/logo/FR/france%205%20hd.png" group-title="|EU| FRANCE TNTSAT",FRANCE 5 HD
+
+http://comag.rip:8000/50489460623113/30540817114152/59
+
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="FRANCE 5 FULL HD" tvg-logo="http://178.33.72.149/logo/FR/france%205%20full%20hd%20.png" group-title="|EU| FRANCE TNTSAT",FRANCE 5 FULL HD
+
+http://comag.rip:8000/50489460623113/30540817114152/23757
+
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 SD" tvg-logo="http://178.33.72.149/logo/FR/m6%20sd.png" group-title="|EU| FRANCE TNTSAT",M6 SD
+
+http://comag.rip:8000/50489460623113/30540817114152/80988
+
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 HD" tvg-logo="http://178.33.72.149/logo/FR/m6%20hd.png" group-title="|EU| FRANCE TNTSAT",M6 HD
+
+http://comag.rip:8000/50489460623113/30540817114152/138
+
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 FHD" tvg-logo="http://178.33.72.149/logo/FR/m6%20full%20hd.png" group-title="|EU| FRANCE TNTSAT",M6 FHD
+
+http://comag.rip:8000/50489460623113/30540817114152/23756
+
+#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-name="PARIS PREMIERE HD" tvg-logo="http://178.33.72.149/logo/FR/paris%20premier%20hd.png" group-title="|EU| FRANCE TNTSAT",PARIS PREMIERE HD
+
+http://comag.rip:8000/50489460623113/30540817114152/2562
+
+#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-name="PARIS PREMIERE FULL HD" tvg-logo="http://178.33.72.149/logo/FR/paris%20premier%20full%20hd.png" group-title="|EU| FRANCE TNTSAT",PARIS PREMIERE FULL HD
+
+http://comag.rip:8000/50489460623113/30540817114152/23691
+
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC SD" tvg-logo="http://178.33.72.149/logo/FR/TMC%20SD.png" group-title="|EU| FRANCE TNTSAT",TMC SD
+
+http://comag.rip:8000/50489460623113/30540817114152/81019
+
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC HD" tvg-logo="http://178.33.72.149/logo/FR/tmc%20hd.png" group-title="|EU| FRANCE TNTSAT",TMC HD
+
+http://comag.rip:8000/50489460623113/30540817114152/2570
+
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC FULL HD" tvg-logo="http://178.33.72.149/logo/FR/tmc%20full%20hd.png" group-title="|EU| FRANCE TNTSAT",TMC FULL HD
+
+http://comag.rip:8000/50489460623113/30540817114152/23748
+
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC +1 FULL HD" tvg-logo="http://178.33.72.149/logo/FR/TMC%20+1%20FULL%20HD.png" group-title="|EU| FRANCE TNTSAT",TMC +1 FULL HD
+
+http://comag.rip:8000/50489460623113/30540817114152/23747
+
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6TER SD" tvg-logo="http://178.33.72.149/logo/FR/6ter%20sd.png" group-title="|EU| FRANCE TNTSAT",6TER SD
+
+http://comag.rip:8000/50489460623113/30540817114152/81024
+
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6TER HD" tvg-logo="http://178.33.72.149/logo/FR/6ter%20hd.png" group-title="|EU| FRANCE TNTSAT",6TER HD
+
+http://comag.rip:8000/50489460623113/30540817114152/673
+
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6TER FULL HD" tvg-logo="http://178.33.72.149/logo/FR/6ter%20%20full%20hd.png" group-title="|EU| FRANCE TNTSAT",6TER FULL HD
+
+http://comag.rip:8000/50489460623113/30540817114152/23750
+
+#EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="CHERIE 25 SD" tvg-logo="http://178.33.72.149/logo/FR/cheri%2025%20sd.png" group-title="|EU| FRANCE TNTSAT",CHERIE 25 SD
+
+http://comag.rip:8000/50489460623113/30540817114152/81026
+
+#EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="CHERIE 25" tvg-logo="http://178.33.72.149/logo/FR/cheri%2025%20hd.png" group-title="|EU| FRANCE TNTSAT",CHERIE 25
+
+http://comag.rip:8000/50489460623113/30540817114152/133
+
+#EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="CHERIE 25 FULL HD" tvg-logo="http://178.33.72.149/logo/FR/cheri%2025%20full%20hd.png" group-title="|EU| FRANCE TNTSAT",CHERIE 25 FULL HD
+
+http://comag.rip:8000/50489460623113/30540817114152/23689
+
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 SERIES-FILMS SD" tvg-logo="http://178.33.72.149/logo/FR/tfi%20seris%20films%20sd.png" group-title="|EU| FRANCE TNTSAT",TF1 SERIES-FILMS SD
+
+http://comag.rip:8000/50489460623113/30540817114152/81023
+
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 SERIES FILMS" tvg-logo="http://178.33.72.149/logo/FR/tf1%20serie%20film%20%20hevc.png" group-title="|EU| FRANCE TNTSAT",TF1 SERIES FILMS
+
+http://comag.rip:8000/50489460623113/30540817114152/9472
+
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 SERIES FILMS FULL HD" tvg-logo="http://178.33.72.149/logo/FR/tfi%20seris%20films%20full%20hd.png" group-title="|EU| FRANCE TNTSAT",TF1 SERIES FILMS FULL HD
+
+http://comag.rip:8000/50489460623113/30540817114152/23754
+
+#EXTINF:-1 tvg-id="RMCStory.fr" tvg-name="RMC STORY" tvg-logo="http://178.33.72.149/logo/FR/rmc%20story%20hd.png" group-title="|EU| FRANCE TNTSAT",RMC STORY
+
+http://comag.rip:8000/50489460623113/30540817114152/2683
+
+#EXTINF:-1 tvg-id="RMCStory.fr" tvg-name="RMC STORY SD" tvg-logo="http://178.33.72.149/logo/FR/rmc%20story%20sd.png" group-title="|EU| FRANCE TNTSAT",RMC STORY SD
+
+http://comag.rip:8000/50489460623113/30540817114152/81025
+
+#EXTINF:-1 tvg-id="RMCStory.fr" tvg-name="RMC STORY FULL HD" tvg-logo="http://178.33.72.149/logo/FR/rmc%20story%20full%20hd.png" group-title="|EU| FRANCE TNTSAT",RMC STORY FULL HD
+
+http://comag.rip:8000/50489460623113/30540817114152/46189
+
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="ARTE SD" tvg-logo="http://178.33.72.149/logo/FR/arte%20%20sd.png" group-title="|EU| FRANCE TNTSAT",ARTE SD
+
+http://comag.rip:8000/50489460623113/30540817114152/80989
+
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="ARTE FR" tvg-logo="http://178.33.72.149/logo/FR/arte%20hd.png" group-title="|EU| FRANCE TNTSAT",ARTE FR
+
+http://comag.rip:8000/50489460623113/30540817114152/338
+
+#EXTINF:-1 tvg-id="" tvg-name="---------- Information ----------" tvg-logo="https://www.freeiconspng.com/uploads/france-flag-icon-3.png" group-title="|EU| FRANCE TNTSAT",---------- Information ----------
+
+http://comag.rip:8000/50489460623113/30540817114152/64492
+
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-name="TV5" tvg-logo="http://178.33.72.149/logo/FR/tv5%20mond.png" group-title="|EU| FRANCE TNTSAT",TV5
+
+http://comag.rip:8000/50489460623113/30540817114152/2611
+
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-name="TV5 MONDE FBS HD" tvg-logo="http://178.33.72.149/logo/FR/tv5mond%20fbs%20hd.png" group-title="|EU| FRANCE TNTSAT",TV5 MONDE FBS HD
+
+http://comag.rip:8000/50489460623113/30540817114152/79358
+
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNEWS SD" tvg-logo="http://178.33.72.149/logo/FR/cnews%20sd.png" group-title="|EU| FRANCE TNTSAT",CNEWS SD
+
+http://comag.rip:8000/50489460623113/30540817114152/81064
+
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNEWS" tvg-logo="http://178.33.72.149/logo/FR/cnews%20hd.png" group-title="|EU| FRANCE TNTSAT",CNEWS
+
+http://comag.rip:8000/50489460623113/30540817114152/336
+
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNEWS HD" tvg-logo="http://178.33.72.149/logo/FR/cnews%20hd.png" group-title="|EU| FRANCE TNTSAT",CNEWS HD
+
+http://comag.rip:8000/50489460623113/30540817114152/79342
+
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" tvg-logo="http://178.33.72.149/logo/FR/france%2024.png" group-title="|EU| FRANCE TNTSAT",France 24
+
+http://comag.rip:8000/50489460623113/30540817114152/8096
+
+#EXTINF:-1 tvg-id="FranceInfo.fr" tvg-name="FRANCE INFO SD" tvg-logo="http://178.33.72.149/logo/FR/france%20info%20sd.png" group-title="|EU| FRANCE TNTSAT",FRANCE INFO SD
+
+http://comag.rip:8000/50489460623113/30540817114152/81065
+
+#EXTINF:-1 tvg-id="FranceInfo.fr" tvg-name="FRANCE INFO HD" tvg-logo="http://178.33.72.149/logo/FR/france%20info%20hd.png" group-title="|EU| FRANCE TNTSAT",FRANCE INFO HD
+
+http://comag.rip:8000/50489460623113/30540817114152/79339
+
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" tvg-logo="http://178.33.72.149/logo/FR/lci.png" group-title="|EU| FRANCE TNTSAT",LCI
+
+http://comag.rip:8000/50489460623113/30540817114152/334
+
+#EXTINF:-1 tvg-id="Euronews.fr" tvg-name="EURONEWS FR" tvg-logo="http://178.33.72.149/logo/FR/Euronews%20hd.png" group-title="|EU| FRANCE TNTSAT",EURONEWS FR
+
+http://comag.rip:8000/50489460623113/30540817114152/674
+
+#EXTINF:-1 tvg-id="Euronews.fr" tvg-name="EURONEWS FRANCE HD" tvg-logo="http://178.33.72.149/logo/FR/Euronews%20hd.png" group-title="|EU| FRANCE TNTSAT",EURONEWS FRANCE HD
+
+http://comag.rip:8000/50489460623113/30540817114152/79341
+
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV" tvg-logo="http://178.33.72.149/logo/FR/bet%20hd.png" group-title="|EU| FRANCE TNTSAT",BFM TV
+
+http://comag.rip:8000/50489460623113/30540817114152/2541
+
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="BFM BUSINESS" tvg-logo="http://178.33.72.149/logo/FR/bfm%20buissnes.png" group-title="|EU| FRANCE TNTSAT",BFM BUSINESS
+
+http://comag.rip:8000/50489460623113/30540817114152/78249
+
+#EXTINF:-1 tvg-id="BFMParis.fr" tvg-name="BFM PARIS FULL HD" tvg-logo="http://178.33.72.149/logo/FR/bfm%20paris%20hd.png" group-title="|EU| FRANCE TNTSAT",BFM PARIS FULL HD
+
+http://comag.rip:8000/50489460623113/30540817114152/23745
+
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="BFM BUSINESS SD" tvg-logo="http://178.33.72.149/logo/FR/bfm%20buissnes%20sd.png" group-title="|EU| FRANCE TNTSAT",BFM BUSINESS SD
+
+http://comag.rip:8000/50489460623113/30540817114152/81062
+
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM LYON HD" tvg-logo="http://178.33.72.149/logo/FR/bfm%20lyon%20hd.png" group-title="|EU| FRANCE TNTSAT",BFM LYON HD
+
+http://comag.rip:8000/50489460623113/30540817114152/79338
+
+#EXTINF:-1 tvg-id="LaChaineMeteo.fr" tvg-name="LA CHAINE METEO HD" tvg-logo="http://178.33.72.149/logo/FR/La%20Cha%c3%aene%20m%c3%a9t%c3%a9o%20hd.png" group-title="|EU| FRANCE TNTSAT",LA CHAINE METEO HD
+
+http://comag.rip:8000/50489460623113/30540817114152/79337
+
+#EXTINF:-1 tvg-id="I24News.fr" tvg-name="I24 NEWS HD" tvg-logo="http://178.33.72.149/logo/FR/i24%20hd.png" group-title="|EU| FRANCE TNTSAT",I24 NEWS HD
+
+http://comag.rip:8000/50489460623113/30540817114152/79340
+
+#EXTINF:-1 tvg-id="Weo.fr" tvg-name="WEO HD" tvg-logo="http://178.33.72.149/logo/FR/weo%20hd.png" group-title="|EU| FRANCE TNTSAT",WEO HD
+
+http://comag.rip:8000/50489460623113/30540817114152/79343
+
+#EXTINF:-1 tvg-id="BFMGrandLille.fr" tvg-name="GRAND LILLE TV HD" tvg-logo="http://178.33.72.149/logo/FR/grand%20lille%20tv%20hd.png" group-title="|EU| FRANCE TNTSAT",GRAND LILLE TV HD
+
+http://comag.rip:8000/50489460623113/30540817114152/79344
+
+#EXTINF:-1 tvg-id="IDF1.fr" tvg-name="IDF 1 HD/SD" tvg-logo="http://178.33.72.149/logo/FR/idf1%20sd-hd.png" group-title="|EU| FRANCE TNTSAT",IDF 1 HD/SD
+
+http://comag.rip:8000/50489460623113/30540817114152/79345
+
+#EXTINF:-1 tvg-id="DemainTV.fr" tvg-name="DEMAIN ! IDF" tvg-logo="http://178.33.72.149/logo/FR/demain!%20tv.png" group-title="|EU| FRANCE TNTSAT",DEMAIN ! IDF
+
+http://comag.rip:8000/50489460623113/30540817114152/79346
+
+#EXTINF:-1 tvg-id="Canal32.fr" tvg-name="CANAL 31 HD" tvg-logo="http://178.33.72.149/logo/FR/canal%2031%20hd.png" group-title="|EU| FRANCE TNTSAT",CANAL 31 HD
+
+http://comag.rip:8000/50489460623113/30540817114152/79347
+
+#EXTINF:-1 tvg-id="" tvg-name="LA CHAINE PARLEMENTAIRE HD" tvg-logo="https://static.epg.best/fr/LaChaineParlementaire.fr.png" group-title="|EU| FRANCE TNTSAT",LA CHAINE PARLEMENTAIRE HD
+
+http://comag.rip:8000/50489460623113/30540817114152/79348
+
+#EXTINF:-1 tvg-id="NULL" tvg-name="---------- Cinema ----------" tvg-logo="https://www.freeiconspng.com/uploads/france-flag-icon-3.png" group-title="|EU| FRANCE GENERALISTE",---------- Cinema ----------
+
+http://comag.rip:8000/50489460623113/30540817114152/64489
+
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="CANAL+  SD" tvg-logo="http://178.33.72.149/logo/FR/canal+%20sd.png" group-title="|EU| FRANCE GENERALISTE",CANAL+  SD
+
+http://comag.rip:8000/50489460623113/30540817114152/80992
+
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="CANAL+ HD" tvg-logo="http://178.33.72.149/logo/FR/canal+%20hd.png" group-title="|EU| FRANCE GENERALISTE",CANAL+ HD
+
+http://comag.rip:8000/50489460623113/30540817114152/52
+
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="CANAL+ FULL HD" tvg-logo="http://178.33.72.149/logo/FR/canal+%20full%20hd.png" group-title="|EU| FRANCE GENERALISTE",CANAL+ FULL HD
+
+http://comag.rip:8000/50489460623113/30540817114152/23778
+
+#EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-name="CANAL+ CINEMA HD" tvg-logo="http://178.33.72.149/logo/FR/canal+%20cenima%20hd.png" group-title="|EU| FRANCE GENERALISTE",CANAL+ CINEMA HD
+
+http://comag.rip:8000/50489460623113/30540817114152/56
+
+#EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-name="CANAL+ CINEMA FULL HD" tvg-logo="http://178.33.72.149/logo/FR/canal+%20cenima%20%20fullhd.png" group-title="|EU| FRANCE GENERALISTE",CANAL+ CINEMA FULL HD
+
+http://comag.rip:8000/50489460623113/30540817114152/23777
+
+#EXTINF:-1 tvg-id="CanalPlusFamily.fr" tvg-name="CANAL+ FAMILY SD" tvg-logo="http://178.33.72.149/logo/FR/canal+%20family%20%20sd.png" group-title="|EU| FRANCE GENERALISTE",CANAL+ FAMILY SD
+
+http://comag.rip:8000/50489460623113/30540817114152/80993
+
+#EXTINF:-1 tvg-id="CanalPlusFamily.fr" tvg-name="CANAL+ FAMILY HD" tvg-logo="http://178.33.72.149/logo/FR/canal+%20family%20%20hd.png" group-title="|EU| FRANCE GENERALISTE",CANAL+ FAMILY HD
+
+http://comag.rip:8000/50489460623113/30540817114152/53
+
+#EXTINF:-1 tvg-id="CanalPlusFamily.fr" tvg-name="CANAL+ FAMILY FULL HD" tvg-logo="http://178.33.72.149/logo/FR/canal+%20family%20fullhd.png" group-title="|EU| FRANCE GENERALISTE",CANAL+ FAMILY FULL HD
+
+http://comag.rip:8000/50489460623113/30540817114152/23775
+
+#EXTINF:-1 tvg-id="CanalPlusDecale.fr" tvg-name="CANAL+ DECALE SD" tvg-logo="http://178.33.72.149/logo/FR/canal+%20decal%20sd.png" group-title="|EU| FRANCE GENERALISTE",CANAL+ DECALE SD
+
+http://comag.rip:8000/50489460623113/30540817114152/80994
+
+#EXTINF:-1 tvg-id="CanalPlusDecale.fr" tvg-name="CANAL+ DECALE HD" tvg-logo="http://178.33.72.149/logo/FR/canal+%20decal%20hd.png" group-title="|EU| FRANCE GENERALISTE",CANAL+ DECALE HD
+
+http://comag.rip:8000/50489460623113/30540817114152/16398
+
+#EXTINF:-1 tvg-id="CanalPlusDecale.fr" tvg-name="CANAL+ DECALE FULL HD" tvg-logo="http://178.33.72.149/logo/FR/canal+%20decal%20fullhd.png" group-title="|EU| FRANCE GENERALISTE",CANAL+ DECALE FULL HD
+
+http://comag.rip:8000/50489460623113/30540817114152/23776
+
+#EXTINF:-1 tvg-id="CanalplusSeries.fr" tvg-name="CANAL+ SERIES SD" tvg-logo="http://178.33.72.149/logo/FR/canal+%20series%20sd.png" group-title="|EU| FRANCE GENERALISTE",CANAL+ SERIES SD
+
+http://comag.rip:8000/50489460623113/30540817114152/80995
+
+#EXTINF:-1 tvg-id="CanalplusSeries.fr" tvg-name="CANAL+ SERIES HD" tvg-logo="http://178.33.72.149/logo/FR/canal+%20series%20hd.png" group-title="|EU| FRANCE GENERALISTE",CANAL+ SERIES HD
+
+http://comag.rip:8000/50489460623113/30540817114152/55
+
+#EXTINF:-1 tvg-id="CanalplusSeries.fr" tvg-name="CANAL+ SERIES FULL HD" tvg-logo="http://178.33.72.149/logo/FR/canal+%20series%20fullhd.png" group-title="|EU| FRANCE GENERALISTE",CANAL+ SERIES FULL HD
+
+http://comag.rip:8000/50489460623113/30540817114152/23773
+
+#EXTINF:-1 tvg-id="OCSChoc.fr" tvg-name="OCS CHOC SD" tvg-logo="http://178.33.72.149/logo/FR/ocs%20choc%20sd.png" group-title="|EU| FRANCE GENERALISTE",OCS CHOC SD
+
+http://comag.rip:8000/50489460623113/30540817114152/80997
+
+#EXTINF:-1 tvg-id="OCSChoc.fr" tvg-name="OCS CHOC" tvg-logo="http://178.33.72.149/logo/FR/ocs%20choc%20hd.png" group-title="|EU| FRANCE GENERALISTE",OCS CHOC
+
+http://comag.rip:8000/50489460623113/30540817114152/2561
+
+#EXTINF:-1 tvg-id="OCSChoc.fr" tvg-name="OCS CHOC FULL HD" tvg-logo="http://178.33.72.149/logo/FR/ocs%20choc%20fullhd.png" group-title="|EU| FRANCE GENERALISTE",OCS CHOC FULL HD
+
+http://comag.rip:8000/50489460623113/30540817114152/23766
+
+#EXTINF:-1 tvg-id="OCSMax.fr" tvg-name="OCS MAX SD" tvg-logo="http://178.33.72.149/logo/FR/ocs%20max%20sd.png" group-title="|EU| FRANCE GENERALISTE",OCS MAX SD
+
+http://comag.rip:8000/50489460623113/30540817114152/81000
+
+#EXTINF:-1 tvg-id="OCSMax.fr" tvg-name="OCS MAX HD" tvg-logo="http://178.33.72.149/logo/FR/ocs%20max%20hd.png" group-title="|EU| FRANCE GENERALISTE",OCS MAX HD
+
+http://comag.rip:8000/50489460623113/30540817114152/2693
+
+#EXTINF:-1 tvg-id="OCSMax.fr" tvg-name="OCS MAX FULL HD" tvg-logo="http://178.33.72.149/logo/FR/ocs%20max%20fullhd.png" group-title="|EU| FRANCE GENERALISTE",OCS MAX FULL HD
+
+http://comag.rip:8000/50489460623113/30540817114152/23763
+
+#EXTINF:-1 tvg-id="OCSCity.fr" tvg-name="OCS CITY SD" tvg-logo="http://178.33.72.149/logo/FR/ocs%20city%20sd.png" group-title="|EU| FRANCE GENERALISTE",OCS CITY SD
+
+http://comag.rip:8000/50489460623113/30540817114152/80998
+
+#EXTINF:-1 tvg-id="OCSCity.fr" tvg-name="OCS CITY" tvg-logo="http://178.33.72.149/logo/FR/ocs%20city%20hd.png" group-title="|EU| FRANCE GENERALISTE",OCS CITY
+
+http://comag.rip:8000/50489460623113/30540817114152/134
+
+#EXTINF:-1 tvg-id="OCSCity.fr" tvg-name="OCS CITY FULL HD" tvg-logo="http://178.33.72.149/logo/FR/ocs%20city%20fullhd.png" group-title="|EU| FRANCE GENERALISTE",OCS CITY FULL HD
+
+http://comag.rip:8000/50489460623113/30540817114152/23765
+
+#EXTINF:-1 tvg-id="OCSGeants.fr" tvg-name="OCS GEANTS SD" tvg-logo="http://178.33.72.149/logo/FR/ocs%20geants%20sd.png" group-title="|EU| FRANCE GENERALISTE",OCS GEANTS SD
+
+http://comag.rip:8000/50489460623113/30540817114152/80999
+
+#EXTINF:-1 tvg-id="OCSGeants.fr" tvg-name="OCS GEANTS" tvg-logo="http://178.33.72.149/logo/FR/ocs%20geants%20hd.png" group-title="|EU| FRANCE GENERALISTE",OCS GEANTS
+
+http://comag.rip:8000/50489460623113/30540817114152/2682
