@@ -1,408 +1,609 @@
-#EXTM3U
+#EXTINF:-1,92 News UK
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 LDC HD" tvg-logo="" group-title="|EU| FRANCE SPORTS",beIN SPORTS 1 LDC HD
+https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
 
-http://comag.rip:8000/50489460623113/30540817114152/190952
+#EXTINF:-1,Arise News
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 LDC HD" tvg-logo="" group-title="|EU| FRANCE SPORTS",beIN SPORTS 2 LDC HD
+http://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
 
-http://comag.rip:8000/50489460623113/30540817114152/190951
+#EXTINF:-1,Bloomberg+ 4K
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 LDC HD" tvg-logo="" group-title="|EU| FRANCE SPORTS",beIN SPORTS 3 LDC HD
+https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-http://comag.rip:8000/50489460623113/30540817114152/190950
+#EXTINF:-1,CGTN
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 4 LDC HD" tvg-logo="" group-title="|EU| FRANCE SPORTS",beIN SPORTS MAX 4 LDC HD
+http://live.cgtn.com/500/prog_index.m3u8
 
-http://comag.rip:8000/50489460623113/30540817114152/190949
+#EXTINF:-1,Clubbing TV
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 5 LDC HD" tvg-logo="" group-title="|EU| FRANCE SPORTS",beIN SPORTS MAX 5 LDC HD
-http://comag.rip:8000/50489460623113/30540817114152/190948
+https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 6 LDC HD" tvg-logo="" group-title="|EU| FRANCE SPORTS",beIN SPORTS MAX 6 LDC HD
+#EXTINF:-1,CNN Int. (UK)
 
-http://comag.rip:8000/50489460623113/30540817114152/190947
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 7 LDC HD" tvg-logo="" group-title="|EU| FRANCE SPORTS",beIN SPORTS MAX 7 LDC HD
+#EXTINF:-1,Comedy Channel
 
-http://comag.rip:8000/50489460623113/30540817114152/190946
+https://uksono1-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CANAl+ LDC FULL HD" tvg-logo="" group-title="|EU| FRANCE SPORTS",CANAl+ LDC FULL HD
+#EXTINF:-1,Crime TV
 
-http://comag.rip:8000/50489460623113/30540817114152/190945
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d2c571faeb3e2738ae27933/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=470&deviceId=5d2c571faeb3e2738ae27933&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-id="" tvg-name="CANAl+ LDC HD" tvg-logo="" group-title="|EU| FRANCE SPORTS",CANAl+ LDC HD
+#EXTINF:-1,Edge Sport
 
-http://comag.rip:8000/50489460623113/30540817114152/190944
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CANAl+ SPORT LDC FULL HD" tvg-logo="" group-title="|EU| FRANCE SPORTS",CANAl+ SPORT LDC FULL HD
+#EXTINF:-1,Euronews
 
-http://comag.rip:8000/50489460623113/30540817114152/190943
+https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CANAl+ SPORT LDC HD" tvg-logo="" group-title="|EU| FRANCE SPORTS",CANAl+ SPORT LDC HD
+#EXTINF:-1,Fashion TV
 
-http://comag.rip:8000/50489460623113/30540817114152/190942
+http://entertainment.ashttp9.visionip.tv/live/visiontvuk-entertainment-edgytv-hsslive-25f-16x9-SD/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="---------- TNT-SAT ----------" tvg-logo="http://178.33.72.149/logo/FR/tnt%20sat%20hevc.png" group-title="|EU| FRANCE TNTSAT",---------- TNT-SAT ----------
+#EXTINF:-1,Filmon 360
 
-http://comag.rip:8000/50489460623113/30540817114152/64491
+https://www.filmon.com/vr-streams/4136.high/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 SD" tvg-logo="http://178.33.72.149/logo/FR/tfi%20sd.png" group-title="|EU| FRANCE TNTSAT",TF1 SD
+#EXTINF:-1,FTF For the fans
 
-http://comag.rip:8000/50489460623113/30540817114152/80982
+https://elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 HD" tvg-logo="http://178.33.72.149/logo/FR/tfi%20hd.png" group-title="|EU| FRANCE TNTSAT",TF1 HD
+#EXTINF:-1,Inspiration TV
 
-http://comag.rip:8000/50489460623113/30540817114152/58
+https://inspnetworks-lh.akamaihd.net/i/insp_2@393793/master.m3u8
 
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 FULL HD" tvg-logo="http://178.33.72.149/logo/FR/tf1%20full%20hd.png" group-title="|EU| FRANCE TNTSAT",TF1 FULL HD
+#EXTINF:-1,Insight
 
-http://comag.rip:8000/50489460623113/30540817114152/23762
+https://insighttv-samsung-uk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 FULL HD 1" tvg-logo="http://178.33.72.149/logo/FR/tf1%20full%20hd.png" group-title="|EU| FRANCE TNTSAT",TF1 FULL HD 1
+#EXTINF:-1,Introuble
 
-http://comag.rip:8000/50489460623113/30540817114152/23761
+https://introuble-samsung.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="France2.fr" tvg-name="FRANCE 2 SD" tvg-logo="http://178.33.72.149/logo/FR/france%202%20sd.png" group-title="|EU| FRANCE TNTSAT",FRANCE 2 SD
+#EXTINF:-1,Inwild
 
-http://comag.rip:8000/50489460623113/30540817114152/80983
+https://inwild-samsung-uk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="France2.fr" tvg-name="FRANCE 2 HD" tvg-logo="http://178.33.72.149/logo/FR/france%202%20hd.png" group-title="|EU| FRANCE TNTSAT",FRANCE 2 HD
+#EXTINF:-1,Inwonder
 
-http://comag.rip:8000/50489460623113/30540817114152/137
+https://inwonder-samsung-uk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="France2.fr" tvg-name="FRANCE 2 FULL HD" tvg-logo="http://178.33.72.149/logo/FR/france%202%20full%20hd.png" group-title="|EU| FRANCE TNTSAT",FRANCE 2 FULL HD
+#EXTINF:-1,Kid Gamer TV
 
-http://comag.rip:8000/50489460623113/30540817114152/23760
+https://studio71-samsung-uk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="France3.fr" tvg-name="FRANCE 3 SD" tvg-logo="http://178.33.72.149/logo/FR/france%203%20sd.png" group-title="|EU| FRANCE TNTSAT",FRANCE 3 SD
+#EXTINF:-1,Latest TV (4PM TO 2AM)
 
-http://comag.rip:8000/50489460623113/30540817114152/80984
+https://5a0e89631aa14.streamlock.net/LatestTV/LatestTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="France3.fr" tvg-name="FRANCE 3 HD" tvg-logo="http://178.33.72.149/logo/FR/france%203%20hd.png" group-title="|EU| FRANCE TNTSAT",FRANCE 3 HD
+#EXTINF:-1,Manoto
 
-http://comag.rip:8000/50489460623113/30540817114152/61
+https://d2rwmwucnr0d10.cloudfront.net/live_750.m3u8
 
-#EXTINF:-1 tvg-id="France3.fr" tvg-name="FRANCE 3 FULL HD" tvg-logo="http://178.33.72.149/logo/FR/france%203%20full%20hd.png" group-title="|EU| FRANCE TNTSAT",FRANCE 3 FULL HD
+#EXTINF:-1,My5 Documentaries
 
-http://comag.rip:8000/50489460623113/30540817114152/23759
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddf901280e3550009139c86/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-id="France4.fr" tvg-name="FRANCE 4 SD" tvg-logo="http://178.33.72.149/logo/FR/france%204%20sd.png" group-title="|EU| FRANCE TNTSAT",FRANCE 4 SD
+#EXTINF:-1,My5 GP's
 
-http://comag.rip:8000/50489460623113/30540817114152/80985
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d2c57ee4f9ddf73da8a0ba5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-id="France4.fr" tvg-name="FRANCE 4 HD" tvg-logo="http://178.33.72.149/logo/FR/france%204%20hd.png" group-title="|EU| FRANCE TNTSAT",FRANCE 4 HD
+#EXTINF:-1,PBS America
 
-http://comag.rip:8000/50489460623113/30540817114152/60
+https://pbs-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="France4.fr" tvg-name="FRANCE 4 FULL HD" tvg-logo="http://178.33.72.149/logo/FR/france%204%20full%20hd.png" group-title="|EU| FRANCE TNTSAT",FRANCE 4 FULL HD
+#EXTINF:-1,Players TV
 
-http://comag.rip:8000/50489460623113/30540817114152/23758
+https://playerstv-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="France5.fr" tvg-name="FRANCE 5 SD" tvg-logo="http://178.33.72.149/logo/FR/france%205%20sd.png" group-title="|EU| FRANCE TNTSAT",FRANCE 5 SD
+#EXTINF:-1,Sheffield Live 93.2 FM (Webradio)
 
-http://comag.rip:8000/50489460623113/30540817114152/80986
+http://tv.sheffieldlive.org/hls/main.m3u8
 
-#EXTINF:-1 tvg-id="France5.fr" tvg-name="FRANCE 5 HD" tvg-logo="http://178.33.72.149/logo/FR/france%205%20hd.png" group-title="|EU| FRANCE TNTSAT",FRANCE 5 HD
+#EXTINF:-1,Sheffield Live TV
 
-http://comag.rip:8000/50489460623113/30540817114152/59
+http://tv.sheffieldlive.org/hls/main.m3u8
 
-#EXTINF:-1 tvg-id="France5.fr" tvg-name="FRANCE 5 FULL HD" tvg-logo="http://178.33.72.149/logo/FR/france%205%20full%20hd%20.png" group-title="|EU| FRANCE TNTSAT",FRANCE 5 FULL HD
+#EXTINF:-1,Sky 1 Racing
 
-http://comag.rip:8000/50489460623113/30540817114152/23757
+https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
 
-#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 SD" tvg-logo="http://178.33.72.149/logo/FR/m6%20sd.png" group-title="|EU| FRANCE TNTSAT",M6 SD
+#EXTINF:-1,Sky 2 Racing
 
-http://comag.rip:8000/50489460623113/30540817114152/80988
+https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 
-#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 HD" tvg-logo="http://178.33.72.149/logo/FR/m6%20hd.png" group-title="|EU| FRANCE TNTSAT",M6 HD
+#EXTINF:-1,Sky News Extra
 
-http://comag.rip:8000/50489460623113/30540817114152/138
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 
-#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 FHD" tvg-logo="http://178.33.72.149/logo/FR/m6%20full%20hd.png" group-title="|EU| FRANCE TNTSAT",M6 FHD
+#EXTINF:-1,Sofy TV
 
-http://comag.rip:8000/50489460623113/30540817114152/23756
+https://sofytv-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-name="PARIS PREMIERE HD" tvg-logo="http://178.33.72.149/logo/FR/paris%20premier%20hd.png" group-title="|EU| FRANCE TNTSAT",PARIS PREMIERE HD
+#EXTINF:-1,Sonlife UK
 
-http://comag.rip:8000/50489460623113/30540817114152/2562
+https://sonlife7-i.akamaihd.net/hls/live/585011/ch7/master.m3u8
 
-#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-name="PARIS PREMIERE FULL HD" tvg-logo="http://178.33.72.149/logo/FR/paris%20premier%20full%20hd.png" group-title="|EU| FRANCE TNTSAT",PARIS PREMIERE FULL HD
+#EXTINF:-1,Spark Tv
 
-http://comag.rip:8000/50489460623113/30540817114152/23691
+https://sparktv-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC SD" tvg-logo="http://178.33.72.149/logo/FR/TMC%20SD.png" group-title="|EU| FRANCE TNTSAT",TMC SD
+#EXTINF:-1,Spotlight TV
 
-http://comag.rip:8000/50489460623113/30540817114152/81019
+https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC HD" tvg-logo="http://178.33.72.149/logo/FR/tmc%20hd.png" group-title="|EU| FRANCE TNTSAT",TMC HD
+#EXTINF:-1,Sports Tonight
 
-http://comag.rip:8000/50489460623113/30540817114152/2570
+http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC FULL HD" tvg-logo="http://178.33.72.149/logo/FR/tmc%20full%20hd.png" group-title="|EU| FRANCE TNTSAT",TMC FULL HD
+#EXTINF:-1,Stingray Karaoke
 
-http://comag.rip:8000/50489460623113/30540817114152/23748
+https://stingray-karaoke-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC +1 FULL HD" tvg-logo="http://178.33.72.149/logo/FR/TMC%20+1%20FULL%20HD.png" group-title="|EU| FRANCE TNTSAT",TMC +1 FULL HD
+#EXTINF:-1,Tastemade
 
-http://comag.rip:8000/50489460623113/30540817114152/23747
+https://tastemade-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6TER SD" tvg-logo="http://178.33.72.149/logo/FR/6ter%20sd.png" group-title="|EU| FRANCE TNTSAT",6TER SD
+#EXTINF:-1,The Tennis Channel
 
-http://comag.rip:8000/50489460623113/30540817114152/81024
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6TER HD" tvg-logo="http://178.33.72.149/logo/FR/6ter%20hd.png" group-title="|EU| FRANCE TNTSAT",6TER HD
+#EXTINF:-1,Time Line
 
-http://comag.rip:8000/50489460623113/30540817114152/673
+https://timeline-samsung-uk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6TER FULL HD" tvg-logo="http://178.33.72.149/logo/FR/6ter%20%20full%20hd.png" group-title="|EU| FRANCE TNTSAT",6TER FULL HD
+#EXTINF:-1,TJC
 
-http://comag.rip:8000/50489460623113/30540817114152/23750
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
 
-#EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="CHERIE 25 SD" tvg-logo="http://178.33.72.149/logo/FR/cheri%2025%20sd.png" group-title="|EU| FRANCE TNTSAT",CHERIE 25 SD
+#EXTINF:-1,23 ABC (KERO) (720p)
 
-http://comag.rip:8000/50489460623113/30540817114152/81026
+https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
 
-#EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="CHERIE 25" tvg-logo="http://178.33.72.149/logo/FR/cheri%2025%20hd.png" group-title="|EU| FRANCE TNTSAT",CHERIE 25
+#EXTINF:-1,24 Hour Free Movies (720p)
 
-http://comag.rip:8000/50489460623113/30540817114152/133
+https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
 
-#EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="CHERIE 25 FULL HD" tvg-logo="http://178.33.72.149/logo/FR/cheri%2025%20full%20hd.png" group-title="|EU| FRANCE TNTSAT",CHERIE 25 FULL HD
+#EXTINF:-1,3ABN Kids (720p)
 
-http://comag.rip:8000/50489460623113/30540817114152/23689
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 
-#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 SERIES-FILMS SD" tvg-logo="http://178.33.72.149/logo/FR/tfi%20seris%20films%20sd.png" group-title="|EU| FRANCE TNTSAT",TF1 SERIES-FILMS SD
+#EXTINF:-1,3ABN Praise Him Music Channel (720p)
 
-http://comag.rip:8000/50489460623113/30540817114152/81023
+https://moiptvhls-i.akamaihd.net/hls/live/554145/secure/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 SERIES FILMS" tvg-logo="http://178.33.72.149/logo/FR/tf1%20serie%20film%20%20hevc.png" group-title="|EU| FRANCE TNTSAT",TF1 SERIES FILMS
+#EXTINF:-1,3ABN Proclaim! (720p)
 
-http://comag.rip:8000/50489460623113/30540817114152/9472
+https://moiptvhls-i.akamaihd.net/hls/live/652317/secure/master.m3u8
 
-#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 SERIES FILMS FULL HD" tvg-logo="http://178.33.72.149/logo/FR/tfi%20seris%20films%20full%20hd.png" group-title="|EU| FRANCE TNTSAT",TF1 SERIES FILMS FULL HD
+#EXTINF:-1,3AW (Melburne) (574p)
 
-http://comag.rip:8000/50489460623113/30540817114152/23754
+http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8
 
-#EXTINF:-1 tvg-id="RMCStory.fr" tvg-name="RMC STORY" tvg-logo="http://178.33.72.149/logo/FR/rmc%20story%20hd.png" group-title="|EU| FRANCE TNTSAT",RMC STORY
+#EXTINF:-1,5AAB TV (720p)
 
-http://comag.rip:8000/50489460623113/30540817114152/2683
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RMCStory.fr" tvg-name="RMC STORY SD" tvg-logo="http://178.33.72.149/logo/FR/rmc%20story%20sd.png" group-title="|EU| FRANCE TNTSAT",RMC STORY SD
+#EXTINF:-1,7News Boston (WHDH) (540p)
 
-http://comag.rip:8000/50489460623113/30540817114152/81025
+https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
 
-#EXTINF:-1 tvg-id="RMCStory.fr" tvg-name="RMC STORY FULL HD" tvg-logo="http://178.33.72.149/logo/FR/rmc%20story%20full%20hd.png" group-title="|EU| FRANCE TNTSAT",RMC STORY FULL HD
+#EXTINF:-1,ABC Kids (720p) [Not 24/7]
 
-http://comag.rip:8000/50489460623113/30540817114152/46189
+https://c.mjh.nz/101002210222/
 
-#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="ARTE SD" tvg-logo="http://178.33.72.149/logo/FR/arte%20%20sd.png" group-title="|EU| FRANCE TNTSAT",ARTE SD
+#EXTINF:-1,ABC ME (720p)
 
-http://comag.rip:8000/50489460623113/30540817114152/80989
+https://c.mjh.nz/101002210224/
 
-#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="ARTE FR" tvg-logo="http://178.33.72.149/logo/FR/arte%20hd.png" group-title="|EU| FRANCE TNTSAT",ARTE FR
+#EXTINF:-1,ABC News (720p)
 
-http://comag.rip:8000/50489460623113/30540817114152/338
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="---------- Information ----------" tvg-logo="https://www.freeiconspng.com/uploads/france-flag-icon-3.png" group-title="|EU| FRANCE TNTSAT",---------- Information ----------
+#EXTINF:-1,ABC News (1080p)
 
-http://comag.rip:8000/50489460623113/30540817114152/64492
+https://abcnewslive.akamaized.net/amagi_hls_data_roku-host-abc/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-name="TV5" tvg-logo="http://178.33.72.149/logo/FR/tv5%20mond.png" group-title="|EU| FRANCE TNTSAT",TV5
+#EXTINF:-1,ABC News (720p) [Geo-blocked]
 
-http://comag.rip:8000/50489460623113/30540817114152/2611
+https://c.mjh.nz/101002210220/
 
-#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-name="TV5 MONDE FBS HD" tvg-logo="http://178.33.72.149/logo/FR/tv5mond%20fbs%20hd.png" group-title="|EU| FRANCE TNTSAT",TV5 MONDE FBS HD
+#EXTINF:-1,ABC News (720p)
 
-http://comag.rip:8000/50489460623113/30540817114152/79358
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
-#EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNEWS SD" tvg-logo="http://178.33.72.149/logo/FR/cnews%20sd.png" group-title="|EU| FRANCE TNTSAT",CNEWS SD
+#EXTINF:-1,ABC News 1 (720p)
 
-http://comag.rip:8000/50489460623113/30540817114152/81064
+https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
 
-#EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNEWS" tvg-logo="http://178.33.72.149/logo/FR/cnews%20hd.png" group-title="|EU| FRANCE TNTSAT",CNEWS
+#EXTINF:-1,ABC News 10 (720p)
 
-http://comag.rip:8000/50489460623113/30540817114152/336
+https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8
 
-#EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNEWS HD" tvg-logo="http://178.33.72.149/logo/FR/cnews%20hd.png" group-title="|EU| FRANCE TNTSAT",CNEWS HD
+#EXTINF:-1,ABC News 2 (720p)
 
-http://comag.rip:8000/50489460623113/30540817114152/79342
+https://abcnews-streams.akamaized.net/hls/live/2023561/abcnews2/master.m3u8
 
-#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" tvg-logo="http://178.33.72.149/logo/FR/france%2024.png" group-title="|EU| FRANCE TNTSAT",France 24
+#EXTINF:-1,ABC News 3 (720p)
 
-http://comag.rip:8000/50489460623113/30540817114152/8096
+https://abcnews-streams.akamaized.net/hls/live/2023562/abcnews3/master.m3u8
 
-#EXTINF:-1 tvg-id="FranceInfo.fr" tvg-name="FRANCE INFO SD" tvg-logo="http://178.33.72.149/logo/FR/france%20info%20sd.png" group-title="|EU| FRANCE TNTSAT",FRANCE INFO SD
+#EXTINF:-1,ABC News 4 (720p)
 
-http://comag.rip:8000/50489460623113/30540817114152/81065
+https://abcnews-streams.akamaized.net/hls/live/2023563/abcnews4/master.m3u8
 
-#EXTINF:-1 tvg-id="FranceInfo.fr" tvg-name="FRANCE INFO HD" tvg-logo="http://178.33.72.149/logo/FR/france%20info%20hd.png" group-title="|EU| FRANCE TNTSAT",FRANCE INFO HD
+#EXTINF:-1,ABC News 5 (720p)
 
-http://comag.rip:8000/50489460623113/30540817114152/79339
+https://abcnews-streams.akamaized.net/hls/live/2023564/abcnews5/master.m3u8
 
-#EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" tvg-logo="http://178.33.72.149/logo/FR/lci.png" group-title="|EU| FRANCE TNTSAT",LCI
+#EXTINF:-1,ABC News 6 (720p)
 
-http://comag.rip:8000/50489460623113/30540817114152/334
+https://abcnews-streams.akamaized.net/hls/live/2023565/abcnews6/master.m3u8
 
-#EXTINF:-1 tvg-id="Euronews.fr" tvg-name="EURONEWS FR" tvg-logo="http://178.33.72.149/logo/FR/Euronews%20hd.png" group-title="|EU| FRANCE TNTSAT",EURONEWS FR
+#EXTINF:-1,ABC News 7 (720p)
 
-http://comag.rip:8000/50489460623113/30540817114152/674
+https://abcnews-streams.akamaized.net/hls/live/2023566/abcnews7/master.m3u8
 
-#EXTINF:-1 tvg-id="Euronews.fr" tvg-name="EURONEWS FRANCE HD" tvg-logo="http://178.33.72.149/logo/FR/Euronews%20hd.png" group-title="|EU| FRANCE TNTSAT",EURONEWS FRANCE HD
+#EXTINF:-1,ABC News 8 (720p)
 
-http://comag.rip:8000/50489460623113/30540817114152/79341
+https://abcnews-streams.akamaized.net/hls/live/2023567/abcnews8/master.m3u8
 
-#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV" tvg-logo="http://178.33.72.149/logo/FR/bet%20hd.png" group-title="|EU| FRANCE TNTSAT",BFM TV
+#EXTINF:-1,ABC News 9 (720p)
 
-http://comag.rip:8000/50489460623113/30540817114152/2541
+https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8
 
-#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="BFM BUSINESS" tvg-logo="http://178.33.72.149/logo/FR/bfm%20buissnes.png" group-title="|EU| FRANCE TNTSAT",BFM BUSINESS
+#EXTINF:-1,ABC News Live
 
-http://comag.rip:8000/50489460623113/30540817114152/78249
+http://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/512x288_875600/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="BFMParis.fr" tvg-name="BFM PARIS FULL HD" tvg-logo="http://178.33.72.149/logo/FR/bfm%20paris%20hd.png" group-title="|EU| FRANCE TNTSAT",BFM PARIS FULL HD
+#EXTINF:-1,ABC News Live (1080p)
 
-http://comag.rip:8000/50489460623113/30540817114152/23745
+https://abcnewslive-roku.akamaized.net/midroll/amagi_hls_data_roku-host-abc/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="BFM BUSINESS SD" tvg-logo="http://178.33.72.149/logo/FR/bfm%20buissnes%20sd.png" group-title="|EU| FRANCE TNTSAT",BFM BUSINESS SD
+#EXTINF:-1,ABC TV (720p)
 
-http://comag.rip:8000/50489460623113/30540817114152/81062
+https://c.mjh.nz/101002210221/
 
-#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM LYON HD" tvg-logo="http://178.33.72.149/logo/FR/bfm%20lyon%20hd.png" group-title="|EU| FRANCE TNTSAT",BFM LYON HD
+#EXTINF:-1,ABC TV (720p)
 
-http://comag.rip:8000/50489460623113/30540817114152/79338
+https://c.mjh.nz/101002310231/
 
-#EXTINF:-1 tvg-id="LaChaineMeteo.fr" tvg-name="LA CHAINE METEO HD" tvg-logo="http://178.33.72.149/logo/FR/La%20Cha%c3%aene%20m%c3%a9t%c3%a9o%20hd.png" group-title="|EU| FRANCE TNTSAT",LA CHAINE METEO HD
+#EXTINF:-1,ABC TV (720p)
 
-http://comag.rip:8000/50489460623113/30540817114152/79337
+https://c.mjh.nz/101002510251/
 
-#EXTINF:-1 tvg-id="I24News.fr" tvg-name="I24 NEWS HD" tvg-logo="http://178.33.72.149/logo/FR/i24%20hd.png" group-title="|EU| FRANCE TNTSAT",I24 NEWS HD
+#EXTINF:-1,ABC TV Plus (720p)
 
-http://comag.rip:8000/50489460623113/30540817114152/79340
+https://c.mjh.nz/abc2/
 
-#EXTINF:-1 tvg-id="Weo.fr" tvg-name="WEO HD" tvg-logo="http://178.33.72.149/logo/FR/weo%20hd.png" group-title="|EU| FRANCE TNTSAT",WEO HD
+#EXTINF:-1,ABP Hindi (324p)
 
-http://comag.rip:8000/50489460623113/30540817114152/79343
+http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
 
-#EXTINF:-1 tvg-id="BFMGrandLille.fr" tvg-name="GRAND LILLE TV HD" tvg-logo="http://178.33.72.149/logo/FR/grand%20lille%20tv%20hd.png" group-title="|EU| FRANCE TNTSAT",GRAND LILLE TV HD
+#EXTINF:-1,ABP Hindi (720p)
 
-http://comag.rip:8000/50489460623113/30540817114152/79344
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
 
-#EXTINF:-1 tvg-id="IDF1.fr" tvg-name="IDF 1 HD/SD" tvg-logo="http://178.33.72.149/logo/FR/idf1%20sd-hd.png" group-title="|EU| FRANCE TNTSAT",IDF 1 HD/SD
+#EXTINF:-1,Absolute Reality WeTV (1080p)
 
-http://comag.rip:8000/50489460623113/30540817114152/79345
+https://amc-absolutereality-1.imdbtv.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DemainTV.fr" tvg-name="DEMAIN ! IDF" tvg-logo="http://178.33.72.149/logo/FR/demain!%20tv.png" group-title="|EU| FRANCE TNTSAT",DEMAIN ! IDF
+#EXTINF:-1,Adrenaline Rush (720p)
 
-http://comag.rip:8000/50489460623113/30540817114152/79346
+https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal32.fr" tvg-name="CANAL 31 HD" tvg-logo="http://178.33.72.149/logo/FR/canal%2031%20hd.png" group-title="|EU| FRANCE TNTSAT",CANAL 31 HD
+#EXTINF:-1,Adventure Sports Network
 
-http://comag.rip:8000/50489460623113/30540817114152/79347
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="LA CHAINE PARLEMENTAIRE HD" tvg-logo="https://static.epg.best/fr/LaChaineParlementaire.fr.png" group-title="|EU| FRANCE TNTSAT",LA CHAINE PARLEMENTAIRE HD
+#EXTINF:-1,Adventure Sports Network (XUMO)
 
-http://comag.rip:8000/50489460623113/30540817114152/79348
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
 
-#EXTINF:-1 tvg-id="NULL" tvg-name="---------- Cinema ----------" tvg-logo="https://www.freeiconspng.com/uploads/france-flag-icon-3.png" group-title="|EU| FRANCE GENERALISTE",---------- Cinema ----------
+#EXTINF:-1,Afrobeats (720p)
 
-http://comag.rip:8000/50489460623113/30540817114152/64489
+https://stream.ecable.tv/afrobeats/index.m3u8
 
-#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="CANAL+  SD" tvg-logo="http://178.33.72.149/logo/FR/canal+%20sd.png" group-title="|EU| FRANCE GENERALISTE",CANAL+  SD
+#EXTINF:-1,Afrobeats 247
 
-http://comag.rip:8000/50489460623113/30540817114152/80992
+https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="CANAL+ HD" tvg-logo="http://178.33.72.149/logo/FR/canal+%20hd.png" group-title="|EU| FRANCE GENERALISTE",CANAL+ HD
+#EXTINF:-1,AFV (STIRR) (720p)
 
-http://comag.rip:8000/50489460623113/30540817114152/52
+https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
 
-#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="CANAL+ FULL HD" tvg-logo="http://178.33.72.149/logo/FR/canal+%20full%20hd.png" group-title="|EU| FRANCE GENERALISTE",CANAL+ FULL HD
+#EXTINF:-1,AFV Family (720p)
 
-http://comag.rip:8000/50489460623113/30540817114152/23778
+https://linear-12.frequency.stream/dist/localnow/12/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-name="CANAL+ CINEMA HD" tvg-logo="http://178.33.72.149/logo/FR/canal+%20cenima%20hd.png" group-title="|EU| FRANCE GENERALISTE",CANAL+ CINEMA HD
+#EXTINF:-1,Ahlulbayt TV
 
-http://comag.rip:8000/50489460623113/30540817114152/56
+http://109.123.126.14:1935/live/livestream1.sdp/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="CanalPlusCinema.fr" tvg-name="CANAL+ CINEMA FULL HD" tvg-logo="http://178.33.72.149/logo/FR/canal+%20cenima%20%20fullhd.png" group-title="|EU| FRANCE GENERALISTE",CANAL+ CINEMA FULL HD
+#EXTINF:-1,Akaal Channel (396p)
 
-http://comag.rip:8000/50489460623113/30540817114152/23777
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
 
-#EXTINF:-1 tvg-id="CanalPlusFamily.fr" tvg-name="CANAL+ FAMILY SD" tvg-logo="http://178.33.72.149/logo/FR/canal+%20family%20%20sd.png" group-title="|EU| FRANCE GENERALISTE",CANAL+ FAMILY SD
+#EXTINF:-1,Akaku 53 (Hawaii)
 
-http://comag.rip:8000/50489460623113/30540817114152/80993
+https://akaku.vod.castus.tv/live/ch1.m3u8
 
-#EXTINF:-1 tvg-id="CanalPlusFamily.fr" tvg-name="CANAL+ FAMILY HD" tvg-logo="http://178.33.72.149/logo/FR/canal+%20family%20%20hd.png" group-title="|EU| FRANCE GENERALISTE",CANAL+ FAMILY HD
+#EXTINF:-1,Akaku 54 (Hawaii)
 
-http://comag.rip:8000/50489460623113/30540817114152/53
+https://akaku.vod.castus.tv/live/ch2.m3u8
 
-#EXTINF:-1 tvg-id="CanalPlusFamily.fr" tvg-name="CANAL+ FAMILY FULL HD" tvg-logo="http://178.33.72.149/logo/FR/canal+%20family%20fullhd.png" group-title="|EU| FRANCE GENERALISTE",CANAL+ FAMILY FULL HD
+#EXTINF:-1,Akaku 55 (Hawaii)
 
-http://comag.rip:8000/50489460623113/30540817114152/23775
+https://akaku.vod.castus.tv/live/ch3.m3u8
 
-#EXTINF:-1 tvg-id="CanalPlusDecale.fr" tvg-name="CANAL+ DECALE SD" tvg-logo="http://178.33.72.149/logo/FR/canal+%20decal%20sd.png" group-title="|EU| FRANCE GENERALISTE",CANAL+ DECALE SD
+#EXTINF:-1,AKC TV (1080p)
 
-http://comag.rip:8000/50489460623113/30540817114152/80994
+https://video.blivenyc.com/broadcast/prod/2061/22/desktop-playlist.m3u8
 
-#EXTINF:-1 tvg-id="CanalPlusDecale.fr" tvg-name="CANAL+ DECALE HD" tvg-logo="http://178.33.72.149/logo/FR/canal+%20decal%20hd.png" group-title="|EU| FRANCE GENERALISTE",CANAL+ DECALE HD
+#EXTINF:-1,AKC TV - Meet the Breeds (1080p)
 
-http://comag.rip:8000/50489460623113/30540817114152/16398
+https://video.blivenyc.com/broadcast/prod/2061/61/desktop-playlist.m3u8
 
-#EXTINF:-1 tvg-id="CanalPlusDecale.fr" tvg-name="CANAL+ DECALE FULL HD" tvg-logo="http://178.33.72.149/logo/FR/canal+%20decal%20fullhd.png" group-title="|EU| FRANCE GENERALISTE",CANAL+ DECALE FULL HD
+#EXTINF:-1,AKC TV - Puppies (1080p)
 
-http://comag.rip:8000/50489460623113/30540817114152/23776
+https://video.blivenyc.com/broadcast/prod/2061/29/desktop-playlist.m3u8
 
-#EXTINF:-1 tvg-id="CanalplusSeries.fr" tvg-name="CANAL+ SERIES SD" tvg-logo="http://178.33.72.149/logo/FR/canal+%20series%20sd.png" group-title="|EU| FRANCE GENERALISTE",CANAL+ SERIES SD
+#EXTINF:-1,Alabama: Birmingham (STIRR) (720p)
 
-http://comag.rip:8000/50489460623113/30540817114152/80995
+https://dai.google.com/linear/hls/event/4RH6FntvSLOIv5FB-p4I8w/master.m3u8
 
-#EXTINF:-1 tvg-id="CanalplusSeries.fr" tvg-name="CANAL+ SERIES HD" tvg-logo="http://178.33.72.149/logo/FR/canal+%20series%20hd.png" group-title="|EU| FRANCE GENERALISTE",CANAL+ SERIES HD
+#EXTINF:-1,Alabama: Mobile (STIRR) (720p)
 
-http://comag.rip:8000/50489460623113/30540817114152/55
+https://dai.google.com/linear/hls/event/-V3XSvA2Sa6e8h7cnHXB8w/master.m3u8
 
-#EXTINF:-1 tvg-id="CanalplusSeries.fr" tvg-name="CANAL+ SERIES FULL HD" tvg-logo="http://178.33.72.149/logo/FR/canal+%20series%20fullhd.png" group-title="|EU| FRANCE GENERALISTE",CANAL+ SERIES FULL HD
+#EXTINF:-1,All Sports (404p)
 
-http://comag.rip:8000/50489460623113/30540817114152/23773
+https://2-fss-2.streamhoster.com/pl_120/amlst:203932-1476320/playlist.m3u8
 
-#EXTINF:-1 tvg-id="OCSChoc.fr" tvg-name="OCS CHOC SD" tvg-logo="http://178.33.72.149/logo/FR/ocs%20choc%20sd.png" group-title="|EU| FRANCE GENERALISTE",OCS CHOC SD
+#EXTINF:-1,All Weddings (1080p)
 
-http://comag.rip:8000/50489460623113/30540817114152/80997
+https://amc-allweddings-1.vizio.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="OCSChoc.fr" tvg-name="OCS CHOC" tvg-logo="http://178.33.72.149/logo/FR/ocs%20choc%20hd.png" group-title="|EU| FRANCE GENERALISTE",OCS CHOC
+#EXTINF:-1,Amazing Discoveries TV (720p)
 
-http://comag.rip:8000/50489460623113/30540817114152/2561
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="OCSChoc.fr" tvg-name="OCS CHOC FULL HD" tvg-logo="http://178.33.72.149/logo/FR/ocs%20choc%20fullhd.png" group-title="|EU| FRANCE GENERALISTE",OCS CHOC FULL HD
+#EXTINF:-1,AMC Absolute Reality (1080p)
 
-http://comag.rip:8000/50489460623113/30540817114152/23766
+https://amc-absolutereality-1.vizio.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="OCSMax.fr" tvg-name="OCS MAX SD" tvg-logo="http://178.33.72.149/logo/FR/ocs%20max%20sd.png" group-title="|EU| FRANCE GENERALISTE",OCS MAX SD
+#EXTINF:-1,AMC IFC Film Picks (1080p)
 
-http://comag.rip:8000/50489460623113/30540817114152/81000
+https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="OCSMax.fr" tvg-name="OCS MAX HD" tvg-logo="http://178.33.72.149/logo/FR/ocs%20max%20hd.png" group-title="|EU| FRANCE GENERALISTE",OCS MAX HD
+#EXTINF:-1,AMC Presents (1080p)
 
-http://comag.rip:8000/50489460623113/30540817114152/2693
+https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="OCSMax.fr" tvg-name="OCS MAX FULL HD" tvg-logo="http://178.33.72.149/logo/FR/ocs%20max%20fullhd.png" group-title="|EU| FRANCE GENERALISTE",OCS MAX FULL HD
+#EXTINF:-1,AMC Rush (1080p)
 
-http://comag.rip:8000/50489460623113/30540817114152/23763
+https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="OCSCity.fr" tvg-name="OCS CITY SD" tvg-logo="http://178.33.72.149/logo/FR/ocs%20city%20sd.png" group-title="|EU| FRANCE GENERALISTE",OCS CITY SD
+#EXTINF:-1,AMC Slightly Off (1080p)
 
-http://comag.rip:8000/50489460623113/30540817114152/80998
+https://amc-slightly-off-by-amc-1.imdbtv.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="OCSCity.fr" tvg-name="OCS CITY" tvg-logo="http://178.33.72.149/logo/FR/ocs%20city%20hd.png" group-title="|EU| FRANCE GENERALISTE",OCS CITY
+#EXTINF:-1,Ameba (720p)
 
-http://comag.rip:8000/50489460623113/30540817114152/134
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuameba/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="OCSCity.fr" tvg-name="OCS CITY FULL HD" tvg-logo="http://178.33.72.149/logo/FR/ocs%20city%20fullhd.png" group-title="|EU| FRANCE GENERALISTE",OCS CITY FULL HD
+#EXTINF:-1,America's Test Kitchen
 
-http://comag.rip:8000/50489460623113/30540817114152/23765
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericastestkitchen/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="OCSGeants.fr" tvg-name="OCS GEANTS SD" tvg-logo="http://178.33.72.149/logo/FR/ocs%20geants%20sd.png" group-title="|EU| FRANCE GENERALISTE",OCS GEANTS SD
+#EXTINF:-1,America's Voice (720p)
 
-http://comag.rip:8000/50489460623113/30540817114152/80999
+https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
 
-#EXTINF:-1 tvg-id="OCSGeants.fr" tvg-name="OCS GEANTS" tvg-logo="http://178.33.72.149/logo/FR/ocs%20geants%20hd.png" group-title="|EU| FRANCE GENERALISTE",OCS GEANTS
+#EXTINF:-1,American Classics
 
-http://comag.rip:8000/50489460623113/30540817114152/2682
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
+
+#EXTINF:-1,American Classics (STIRR) (720p)
+
+https://dai.google.com/linear/hls/event/0e06oV-NTI2ygS2MRQk9ZA/master.m3u8
+
+#EXTINF:-1,American Horrors (480p)
+
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+
+#EXTINF:-1,Ameritrade (1080p)
+
+https://tdameritrade-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,AMG TV (1080p)
+
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+
+#EXTINF:-1,Architectural Digest
+
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxarchitecturaldigest/CDN/playlist.m3u8
+
+#EXTINF:-1,Arkansas: Little Rock (STIRR) (720p)
+
+https://dai.google.com/linear/hls/event/MqeaRgFBR2WJ_40ngbDruQ/master.m3u8
+
+#EXTINF:-1,Aruba.TV (720p)
+
+https://ed1ov.live.opencaster.com/GzyysAAvEhht/index.m3u8
+
+#EXTINF:-1,Asylum (XUMO) (720p)
+
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-theasylum/CDN/playlist.m3u8
+
+#EXTINF:-1,Atlanta Channel (720p)
+
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
+
+#EXTINF:-1,ausbiz TV (720p) [Geo-blocked]
+
+https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
+
+#EXTINF:-1,Australia Channel (720p)
+
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
+
+#EXTINF:-1,AWE
+
+http://n1.klowdtv.net/live1/awe_720p/chunks.m3u8
+
+#EXTINF:-1,AXS TV Now (1080p)
+
+https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1,Baeble Music
+
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbaeble/CDN/playlist.m3u8
+
+#EXTINF:-1,Battery Pop (XUMO)
+
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
+
+#EXTINF:-1,BBC News (480p)
+
+http://www.filmon.com/vr-streams/27.high/playlist.m3u8
+
+#EXTINF:-1,BBC Red Button 1 (720p) [Geo-Blocked] [Not 24/7]
+
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_01.m3u8
+
+#EXTINF:-1,BBC Red Button 10 (720p) [Geo-Blocked] [Not 24/7]
+
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_10.m3u8
+
+#EXTINF:-1,BBC Red Button 11 (720p) [Geo-Blocked] [Not 24/7]
+
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_11.m3u8
+
+#EXTINF:-1,BBC Red Button 12 (720p) [Geo-Blocked] [Not 24/7]
+
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_12.m3u8
+
+#EXTINF:-1,BBC Red Button 13 (720p) [Geo-Blocked] [Not 24/7]
+
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_13.m3u8
+
+#EXTINF:-1,BBC Red Button 14 (720p) [Geo-Blocked] [Not 24/7]
+
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_14.m3u8
+
+#EXTINF:-1,BBC Red Button 15 (720p) [Geo-Blocked] [Not 24/7]
+
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_15.m3u8
+
+#EXTINF:-1,BBC Red Button 16 (720p) [Geo-Blocked] [Not 24/7]
+
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_16.m3u8
+
+#EXTINF:-1,BBC Red Button 17 (720p) [Geo-Blocked] [Not 24/7]
+
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_17.m3u8
+
+#EXTINF:-1,BBC Red Button 18 (720p) [Geo-Blocked] [Not 24/7]
+
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_18.m3u8
+
+#EXTINF:-1,BBC Red Button 19 (720p) [Geo-Blocked] [Not 24/7]
+
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_19.m3u8
+
+#EXTINF:-1,BBC Red Button 2 (720p) [Geo-Blocked] [Not 24/7]
+
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_02.m3u8
+
+#EXTINF:-1,BBC Red Button 20 (720p) [Geo-Blocked] [Not 24/7]
+
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_20.m3u8
+
+#EXTINF:-1,BBC Red Button 21 (720p) [Geo-Blocked] [Not 24/7]
+
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_21.m3u8
+
+#EXTINF:-1,BBC Red Button 22 (720p) [Geo-Blocked] [Not 24/7]
+
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_22.m3u8
+
+#EXTINF:-1,BBC Red Button 23 (720p) [Geo-Blocked] [Not 24/7]
+
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_23.m3u8
+
+#EXTINF:-1,BBC Red Button 24 (720p) [Geo-Blocked] [Not 24/7]
+
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_24.m3u8
+
+#EXTINF:-1,BBC Red Button 3 (720p) [Geo-Blocked] [Not 24/7]
+
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_03.m3u8
+
+#EXTINF:-1,BBC Red Button 4 (720p) [Geo-Blocked] [Not 24/7]
+
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_04.m3u8
+
+#EXTINF:-1,BBC Red Button 5 (720p) [Geo-Blocked] [Not 24/7]
+
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_05.m3u8
+
+#EXTINF:-1,BBC Red Button 6 (720p) [Geo-Blocked] [Not 24/7]
+
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_06.m3u8
+
+#EXTINF:-1,BBC Red Button 7 (720p) [Geo-Blocked] [Not 24/7]
+
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_07.m3u8
+
+#EXTINF:-1,BBC Red Button 8 (720p) [Geo-Blocked] [Not 24/7]
+
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_08.m3u8
+
+#EXTINF:-1,BBC Red Button 9 (720p) [Geo-Blocked] [Not 24/7]
+
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_09.m3u8
+
+#EXTINF:-1,BBC Toronto Gaunda Punjab (720p)
+
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+
+#EXTINF:-1,BBC World News (576p)
+
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+
+#EXTINF:-1,Beach TV (30A) (720p)
+
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+
+#EXTINF:-1,Beach TV (CSULB) (720p)
+
+http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
+
+#EXTINF:-1,Beach TV (Panama City) (720p)
+
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
+
+#EXTINF:-1,Beach TV (Pawleys Island) (720p)
+
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+
+#EXTINF:-1,Beach TV - Florida - Alabama (720p)
+
+https://5ed325193d4e1.streamlock.net:444/LiveTV/DTVHD/playlist.m3u8
+
+#EXTINF:-1,Beach TV - Key West - Florida Keys (720p)
+
+https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8
+
+#EXTINF:-1,Beach TV - Myrtle Beach - Grand Strand (720p)
+
+https://5ed325193d4e1.streamlock.net:444/LiveTV/MTVHD/playlist.m3u8
+
+#EXTINF:-1,Beach TV - Panama City (720p)
+
+https://5ed325193d4e1.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8
+
+#EXTINF:-1,Beauty IQ (720p)
