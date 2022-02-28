@@ -1,609 +1,79 @@
-#EXTINF:-1,92 News UK
-
-https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
-
-#EXTINF:-1,Arise News
-
-http://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
-
-#EXTINF:-1,Bloomberg+ 4K
-
-https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1,CGTN
-
-http://live.cgtn.com/500/prog_index.m3u8
-
-#EXTINF:-1,Clubbing TV
-
-https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1,CNN Int. (UK)
-
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1,Comedy Channel
-
-https://uksono1-samsunguk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1,Crime TV
-
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d2c571faeb3e2738ae27933/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=470&deviceId=5d2c571faeb3e2738ae27933&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
-#EXTINF:-1,Edge Sport
-
-https://edgesport-samsunguk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1,Euronews
-
-https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1,Fashion TV
-
-http://entertainment.ashttp9.visionip.tv/live/visiontvuk-entertainment-edgytv-hsslive-25f-16x9-SD/chunklist.m3u8
-
-#EXTINF:-1,Filmon 360
-
-https://www.filmon.com/vr-streams/4136.high/playlist.m3u8
-
-#EXTINF:-1,FTF For the fans
-
-https://elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1,Inspiration TV
-
-https://inspnetworks-lh.akamaihd.net/i/insp_2@393793/master.m3u8
-
-#EXTINF:-1,Insight
-
-https://insighttv-samsung-uk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1,Introuble
-
-https://introuble-samsung.amagi.tv/playlist.m3u8
-
-#EXTINF:-1,Inwild
-
-https://inwild-samsung-uk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1,Inwonder
-
-https://inwonder-samsung-uk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1,Kid Gamer TV
-
-https://studio71-samsung-uk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1,Latest TV (4PM TO 2AM)
-
-https://5a0e89631aa14.streamlock.net/LatestTV/LatestTV/playlist.m3u8
-
-#EXTINF:-1,Manoto
-
-https://d2rwmwucnr0d10.cloudfront.net/live_750.m3u8
-
-#EXTINF:-1,My5 Documentaries
-
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddf901280e3550009139c86/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1,My5 GP's
-
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d2c57ee4f9ddf73da8a0ba5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1,PBS America
-
-https://pbs-samsunguk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1,Players TV
-
-https://playerstv-samsunguk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1,Sheffield Live 93.2 FM (Webradio)
-
-http://tv.sheffieldlive.org/hls/main.m3u8
-
-#EXTINF:-1,Sheffield Live TV
-
-http://tv.sheffieldlive.org/hls/main.m3u8
-
-#EXTINF:-1,Sky 1 Racing
-
-https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
-
-#EXTINF:-1,Sky 2 Racing
-
-https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
-
-#EXTINF:-1,Sky News Extra
-
-https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-
-#EXTINF:-1,Sofy TV
-
-https://sofytv-samsunguk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1,Sonlife UK
-
-https://sonlife7-i.akamaihd.net/hls/live/585011/ch7/master.m3u8
-
-#EXTINF:-1,Spark Tv
-
-https://sparktv-samsunguk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1,Spotlight TV
-
-https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8
-
-#EXTINF:-1,Sports Tonight
-
-http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
-
-#EXTINF:-1,Stingray Karaoke
-
-https://stingray-karaoke-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1,Tastemade
-
-https://tastemade-gb.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1,The Tennis Channel
-
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1,Time Line
-
-https://timeline-samsung-uk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1,TJC
-
-https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
-
-#EXTINF:-1,23 ABC (KERO) (720p)
-
-https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
-
-#EXTINF:-1,24 Hour Free Movies (720p)
-
-https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
-
-#EXTINF:-1,3ABN Kids (720p)
-
-https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
-
-#EXTINF:-1,3ABN Praise Him Music Channel (720p)
-
-https://moiptvhls-i.akamaihd.net/hls/live/554145/secure/playlist.m3u8
-
-#EXTINF:-1,3ABN Proclaim! (720p)
-
-https://moiptvhls-i.akamaihd.net/hls/live/652317/secure/master.m3u8
-
-#EXTINF:-1,3AW (Melburne) (574p)
-
-http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8
-
-#EXTINF:-1,5AAB TV (720p)
-
-http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
-
-#EXTINF:-1,7News Boston (WHDH) (540p)
-
-https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
-
-#EXTINF:-1,ABC Kids (720p) [Not 24/7]
-
-https://c.mjh.nz/101002210222/
-
-#EXTINF:-1,ABC ME (720p)
-
-https://c.mjh.nz/101002210224/
-
-#EXTINF:-1,ABC News (720p)
-
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-
-#EXTINF:-1,ABC News (1080p)
-
-https://abcnewslive.akamaized.net/amagi_hls_data_roku-host-abc/CDN/playlist.m3u8
-
-#EXTINF:-1,ABC News (720p) [Geo-blocked]
-
-https://c.mjh.nz/101002210220/
-
-#EXTINF:-1,ABC News (720p)
-
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-
-#EXTINF:-1,ABC News 1 (720p)
-
-https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
-
-#EXTINF:-1,ABC News 10 (720p)
-
-https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8
-
-#EXTINF:-1,ABC News 2 (720p)
-
-https://abcnews-streams.akamaized.net/hls/live/2023561/abcnews2/master.m3u8
-
-#EXTINF:-1,ABC News 3 (720p)
-
-https://abcnews-streams.akamaized.net/hls/live/2023562/abcnews3/master.m3u8
-
-#EXTINF:-1,ABC News 4 (720p)
-
-https://abcnews-streams.akamaized.net/hls/live/2023563/abcnews4/master.m3u8
-
-#EXTINF:-1,ABC News 5 (720p)
-
-https://abcnews-streams.akamaized.net/hls/live/2023564/abcnews5/master.m3u8
-
-#EXTINF:-1,ABC News 6 (720p)
-
-https://abcnews-streams.akamaized.net/hls/live/2023565/abcnews6/master.m3u8
-
-#EXTINF:-1,ABC News 7 (720p)
-
-https://abcnews-streams.akamaized.net/hls/live/2023566/abcnews7/master.m3u8
-
-#EXTINF:-1,ABC News 8 (720p)
-
-https://abcnews-streams.akamaized.net/hls/live/2023567/abcnews8/master.m3u8
-
-#EXTINF:-1,ABC News 9 (720p)
-
-https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8
-
-#EXTINF:-1,ABC News Live
-
-http://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/512x288_875600/chunklist.m3u8
-
-#EXTINF:-1,ABC News Live (1080p)
-
-https://abcnewslive-roku.akamaized.net/midroll/amagi_hls_data_roku-host-abc/CDN/playlist.m3u8
-
-#EXTINF:-1,ABC TV (720p)
-
-https://c.mjh.nz/101002210221/
-
-#EXTINF:-1,ABC TV (720p)
-
-https://c.mjh.nz/101002310231/
-
-#EXTINF:-1,ABC TV (720p)
-
-https://c.mjh.nz/101002510251/
-
-#EXTINF:-1,ABC TV Plus (720p)
-
-https://c.mjh.nz/abc2/
-
-#EXTINF:-1,ABP Hindi (324p)
-
-http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
-
-#EXTINF:-1,ABP Hindi (720p)
-
-https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
-
-#EXTINF:-1,Absolute Reality WeTV (1080p)
-
-https://amc-absolutereality-1.imdbtv.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1,Adrenaline Rush (720p)
-
-https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8
-
-#EXTINF:-1,Adventure Sports Network
-
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
-
-#EXTINF:-1,Adventure Sports Network (XUMO)
-
-https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
-
-#EXTINF:-1,Afrobeats (720p)
-
-https://stream.ecable.tv/afrobeats/index.m3u8
-
-#EXTINF:-1,Afrobeats 247
-
-https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,AFV (STIRR) (720p)
-
-https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
-
-#EXTINF:-1,AFV Family (720p)
-
-https://linear-12.frequency.stream/dist/localnow/12/hls/master/playlist.m3u8
-
-#EXTINF:-1,Ahlulbayt TV
-
-http://109.123.126.14:1935/live/livestream1.sdp/chunklist.m3u8
-
-#EXTINF:-1,Akaal Channel (396p)
-
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
-
-#EXTINF:-1,Akaku 53 (Hawaii)
-
-https://akaku.vod.castus.tv/live/ch1.m3u8
-
-#EXTINF:-1,Akaku 54 (Hawaii)
-
-https://akaku.vod.castus.tv/live/ch2.m3u8
-
-#EXTINF:-1,Akaku 55 (Hawaii)
-
-https://akaku.vod.castus.tv/live/ch3.m3u8
-
-#EXTINF:-1,AKC TV (1080p)
-
-https://video.blivenyc.com/broadcast/prod/2061/22/desktop-playlist.m3u8
-
-#EXTINF:-1,AKC TV - Meet the Breeds (1080p)
-
-https://video.blivenyc.com/broadcast/prod/2061/61/desktop-playlist.m3u8
-
-#EXTINF:-1,AKC TV - Puppies (1080p)
-
-https://video.blivenyc.com/broadcast/prod/2061/29/desktop-playlist.m3u8
-
-#EXTINF:-1,Alabama: Birmingham (STIRR) (720p)
-
-https://dai.google.com/linear/hls/event/4RH6FntvSLOIv5FB-p4I8w/master.m3u8
-
-#EXTINF:-1,Alabama: Mobile (STIRR) (720p)
-
-https://dai.google.com/linear/hls/event/-V3XSvA2Sa6e8h7cnHXB8w/master.m3u8
-
-#EXTINF:-1,All Sports (404p)
-
-https://2-fss-2.streamhoster.com/pl_120/amlst:203932-1476320/playlist.m3u8
-
-#EXTINF:-1,All Weddings (1080p)
-
-https://amc-allweddings-1.vizio.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1,Amazing Discoveries TV (720p)
-
-https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
-
-#EXTINF:-1,AMC Absolute Reality (1080p)
-
-https://amc-absolutereality-1.vizio.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1,AMC IFC Film Picks (1080p)
-
-https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1,AMC Presents (1080p)
-
-https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1,AMC Rush (1080p)
-
-https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1,AMC Slightly Off (1080p)
-
-https://amc-slightly-off-by-amc-1.imdbtv.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1,Ameba (720p)
-
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuameba/CDN/playlist.m3u8
-
-#EXTINF:-1,America's Test Kitchen
-
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericastestkitchen/CDN/playlist.m3u8
-
-#EXTINF:-1,America's Voice (720p)
-
-https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
-
-#EXTINF:-1,American Classics
-
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
-
-#EXTINF:-1,American Classics (STIRR) (720p)
-
-https://dai.google.com/linear/hls/event/0e06oV-NTI2ygS2MRQk9ZA/master.m3u8
-
-#EXTINF:-1,American Horrors (480p)
-
-http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-
-#EXTINF:-1,Ameritrade (1080p)
-
-https://tdameritrade-vizio.amagi.tv/playlist.m3u8
-
-#EXTINF:-1,AMG TV (1080p)
-
-https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
-
-#EXTINF:-1,Architectural Digest
-
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxarchitecturaldigest/CDN/playlist.m3u8
-
-#EXTINF:-1,Arkansas: Little Rock (STIRR) (720p)
-
-https://dai.google.com/linear/hls/event/MqeaRgFBR2WJ_40ngbDruQ/master.m3u8
-
-#EXTINF:-1,Aruba.TV (720p)
-
-https://ed1ov.live.opencaster.com/GzyysAAvEhht/index.m3u8
-
-#EXTINF:-1,Asylum (XUMO) (720p)
-
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-theasylum/CDN/playlist.m3u8
-
-#EXTINF:-1,Atlanta Channel (720p)
-
-http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
-
-#EXTINF:-1,ausbiz TV (720p) [Geo-blocked]
-
-https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
-
-#EXTINF:-1,Australia Channel (720p)
-
-https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
-
-#EXTINF:-1,AWE
-
-http://n1.klowdtv.net/live1/awe_720p/chunks.m3u8
-
-#EXTINF:-1,AXS TV Now (1080p)
-
-https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
-
-#EXTINF:-1,Baeble Music
-
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbaeble/CDN/playlist.m3u8
-
-#EXTINF:-1,Battery Pop (XUMO)
-
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
-
-#EXTINF:-1,BBC News (480p)
-
-http://www.filmon.com/vr-streams/27.high/playlist.m3u8
-
-#EXTINF:-1,BBC Red Button 1 (720p) [Geo-Blocked] [Not 24/7]
-
-https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_01.m3u8
-
-#EXTINF:-1,BBC Red Button 10 (720p) [Geo-Blocked] [Not 24/7]
-
-https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_10.m3u8
-
-#EXTINF:-1,BBC Red Button 11 (720p) [Geo-Blocked] [Not 24/7]
-
-https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_11.m3u8
-
-#EXTINF:-1,BBC Red Button 12 (720p) [Geo-Blocked] [Not 24/7]
-
-https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_12.m3u8
-
-#EXTINF:-1,BBC Red Button 13 (720p) [Geo-Blocked] [Not 24/7]
-
-https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_13.m3u8
-
-#EXTINF:-1,BBC Red Button 14 (720p) [Geo-Blocked] [Not 24/7]
-
-https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_14.m3u8
-
-#EXTINF:-1,BBC Red Button 15 (720p) [Geo-Blocked] [Not 24/7]
-
-https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_15.m3u8
-
-#EXTINF:-1,BBC Red Button 16 (720p) [Geo-Blocked] [Not 24/7]
-
-https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_16.m3u8
-
-#EXTINF:-1,BBC Red Button 17 (720p) [Geo-Blocked] [Not 24/7]
-
-https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_17.m3u8
-
-#EXTINF:-1,BBC Red Button 18 (720p) [Geo-Blocked] [Not 24/7]
-
-https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_18.m3u8
-
-#EXTINF:-1,BBC Red Button 19 (720p) [Geo-Blocked] [Not 24/7]
-
-https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_19.m3u8
-
-#EXTINF:-1,BBC Red Button 2 (720p) [Geo-Blocked] [Not 24/7]
-
-https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_02.m3u8
-
-#EXTINF:-1,BBC Red Button 20 (720p) [Geo-Blocked] [Not 24/7]
-
-https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_20.m3u8
-
-#EXTINF:-1,BBC Red Button 21 (720p) [Geo-Blocked] [Not 24/7]
-
-https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_21.m3u8
-
-#EXTINF:-1,BBC Red Button 22 (720p) [Geo-Blocked] [Not 24/7]
-
-https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_22.m3u8
-
-#EXTINF:-1,BBC Red Button 23 (720p) [Geo-Blocked] [Not 24/7]
-
-https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_23.m3u8
-
-#EXTINF:-1,BBC Red Button 24 (720p) [Geo-Blocked] [Not 24/7]
-
-https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_24.m3u8
-
-#EXTINF:-1,BBC Red Button 3 (720p) [Geo-Blocked] [Not 24/7]
-
-https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_03.m3u8
-
-#EXTINF:-1,BBC Red Button 4 (720p) [Geo-Blocked] [Not 24/7]
-
-https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_04.m3u8
-
-#EXTINF:-1,BBC Red Button 5 (720p) [Geo-Blocked] [Not 24/7]
-
-https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_05.m3u8
-
-#EXTINF:-1,BBC Red Button 6 (720p) [Geo-Blocked] [Not 24/7]
-
-https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_06.m3u8
-
-#EXTINF:-1,BBC Red Button 7 (720p) [Geo-Blocked] [Not 24/7]
-
-https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_07.m3u8
-
-#EXTINF:-1,BBC Red Button 8 (720p) [Geo-Blocked] [Not 24/7]
-
-https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_08.m3u8
-
-#EXTINF:-1,BBC Red Button 9 (720p) [Geo-Blocked] [Not 24/7]
-
-https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_09.m3u8
-
-#EXTINF:-1,BBC Toronto Gaunda Punjab (720p)
-
-http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
-
-#EXTINF:-1,BBC World News (576p)
-
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-
-#EXTINF:-1,Beach TV (30A) (720p)
-
-http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
-
-#EXTINF:-1,Beach TV (CSULB) (720p)
-
-http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
-
-#EXTINF:-1,Beach TV (Panama City) (720p)
-
-http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
-
-#EXTINF:-1,Beach TV (Pawleys Island) (720p)
-
-http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
-
-#EXTINF:-1,Beach TV - Florida - Alabama (720p)
-
-https://5ed325193d4e1.streamlock.net:444/LiveTV/DTVHD/playlist.m3u8
-
-#EXTINF:-1,Beach TV - Key West - Florida Keys (720p)
-
-https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8
-
-#EXTINF:-1,Beach TV - Myrtle Beach - Grand Strand (720p)
-
-https://5ed325193d4e1.streamlock.net:444/LiveTV/MTVHD/playlist.m3u8
-
-#EXTINF:-1,Beach TV - Panama City (720p)
-
-https://5ed325193d4e1.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8
-
-#EXTINF:-1,Beauty IQ (720p)
+#EXTM3U
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Animal Planet FHD
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/25258?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Animal Planet
+http://mfe.cliptv.az/dash/Animal_Planet_HD.ism/playlist.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",ANIMAL PLANET
+http://168.205.87.198:8555/live/antony/1234/18.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",ANIMAL PLANET
+http://168.205.87.198:8555/live/michele/123456/18.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Animal Planet
+http://78.83.191.18:8000/play/a05r?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ANIMAL PLANET
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/50144?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ANIMAL PLANET
+http://vmp343.ddnsking.com:80/thomas2/thomas2/561071?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ANIMAL PLANET
+http://loginto.live:80/JP1584/xuCu1Csjrs/13347?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Animal Planet
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/26062?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Animal Planet HD
+http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/145.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Animal Planet HD
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/21031?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Animal Planet HD (720p)
+http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/11832.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",Animal Planet HD
+http://red.ipfox.org:8080/1234/12345678/2488?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",ANIMAL PLANET
+http://1tv1.net:8080/omnia2021/123456/71064?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NO" tvg-logo="" group-title="Undefined",Animal Planet FHD
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/40764?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",Animal Planet FHD
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/73401?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",ANIMAL PLANET HD
+http://1tv1.net:8080/omnia2021/123456/71478?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",ANIMAL PLANET HD
+http://stariptv.org:8080/wael2021/123456/71478?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Undefined",Animal Planet
+http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/18879?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Undefined",Animal Planet SE
+http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/51?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CH" tvg-logo="" group-title="Undefined",Animal Planet
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/46839?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",ANIMAL PLANET HEVC
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76026?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",ANIMAL PLANET HEVC
+http://local.ultrach.com:8080/bekira/bekira/76026?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",Animal Planet HD
+http://red.ipfox.org:8080/1234/12345678/2792?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",Animal Planet HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76053?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ANIMAL PLANET
+http://loginto.live:80/JP1584/xuCu1Csjrs/1325?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",UK ANIMAL PLANET
+http://ky-iptv.com:80/testtest/testtest/391170.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ANIMAL PLANET
+http://tv.fullytv.com:8080/lisa1/1lisa/18771?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ANIMAL PLANET EAST
+http://loginto.live:80/JP1584/xuCu1Csjrs/33081?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ANIMAL PLANET HD
+http://dns.ulttv.xyz:80/randal/randal2020/73460?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ANIMAL PLANET WEST
+http://loginto.live:80/JP1584/xuCu1Csjrs/249?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Animal Planet
+http://1tv1.net:8080/omnia2021/123456/148497?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Animal Planet
+http://stariptv.org:8080/wael2021/123456/148497?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Animal Planet HD
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/19488?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA Animal Planet West
+http://gtv23.xyz:80/rererere/rererere/175794.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA Animal Planet East UHD
+http://ky-iptv.com:80/testtest/testtest/175793.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA Animal Planet East
+http://gtv23.xyz:80/rererere/rererere/175791.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA Animal Planet East
+http://ky-iptv.com:80/testtest/testtest/175791.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA Animal Planet East UHD
+http://gtv23.xyz:80/rererere/rererere/175793.ts?checkedby:iptvcat.com
