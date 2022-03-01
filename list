@@ -849,13 +849,12 @@ http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/49327?checkedby:iptvcat.com
 http://mlsh1.com:2086/malcolm1/malcolm/79?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",TLC
 http://loginto.live:80/JP1584/xuCu1Csjrs/1297?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",TLC +1ⓧ
+
 http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/65386?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",TLCⓧ FHD
+
 http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/40417?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",TLCⓧ HD
-http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/153?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",TLCⓧ SD
+HDhttp://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/153?checkedby:iptvcat.com
+
 http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/152?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",UK - Discovery TLC (O)(1080)
 http://tv.mediame.xyz:25461/pabloseitler/f8nUScu5sb/119651?checkedby:iptvcat.com
@@ -875,9 +874,52 @@ http://tv.fullytv.com:8080/lisa1/1lisa/29352?checkedby:iptvcat.com
 http://stariptv.org:8080/wael2021/123456/148488?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TLC CHANNEL
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/9363?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TLC Eastⓧ HD
 http://platinumxmedia.xyz:8080/C0rl/SQnJJmZmsw/12042?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TLC FHD 1080
 http://mlsh1.com:2086/malcolm1/malcolm/6829?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TLC HD
 http://hz01.oknirvana.club:8880/AA6M0485/535355353/3093?checkedby:iptvcat.com
+#EXTM3U
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DISCOVERY TLC
+http://168.205.87.198:8555/live/antony/1234/40.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DISCOVERY TLC
+http://168.205.87.198:8555/live/leila/123456/40.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DISCOVERY TLC
+http://168.205.87.198:8555/live/michele/123456/40.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CA TLC
+http://ky-iptv.com:80/testtest/testtest/182178.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TLC
+http://loginto.live:80/JP1584/xuCu1Csjrs/16828?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TLC
+http://vmp343.ddnsking.com:80/thomas2/thomas2/3005?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TLC HD
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/21288?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Undefined",TLC Sverige
+http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/701?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",TLC
+http://loginto.live:80/JP1584/xuCu1Csjrs/1297?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",UK TLC
+http://ky-iptv.com:80/testtest/testtest/190017.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",UK - Discovery TLC (O)(1080)
+http://tv.mediame.xyz:25461/pabloseitler/f8nUScu5sb/119651?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TLC
+http://1tv1.net:8080/omnia2021/123456/148488?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TLC
+http://denizli.unimaster.in:80/yucelozgur/yucelozgur1/102238?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TLC
+http://loginto.live:80/JP1584/xuCu1Csjrs/1144?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TLC
+http://tv.fullytv.com:8080/lisa1/1lisa/29352?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TLC
+http://stariptv.org:8080/wael2021/123456/148488?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA TLC East LHD
+http://ky-iptv.com:80/testtest/testtest/175947.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA TLC East LHD
+http://gtv23.xyz:80/rererere/rererere/175947.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA TLC West
+http://gtv23.xyz:80/rererere/rererere/175949.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA TLC West
+http://ky-iptv.com:80/testtest/testtest/175949.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA-Discovery TLC (O)(720)
+http://tv.mediame.xyz:25461/pabloseitler/f8nUScu5sb/60018?checkedby:iptvcat.com
+
