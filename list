@@ -140,4 +140,20 @@ IT DONNA SHOPPING
 http://mag.abcdxyz.one:80/deni1234/deni1234/188475?checkedby:iptvcat.com
 
 
+SHOPPING CHANNELS
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="SHOPPING CHANNELS UN",Shopping Live
+http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="SHOPPING CHANNELS UN",Horse Shopping Channel
+https://uplynkcontent.sinclairstoryline.com/channel/26c7a77fd6ed453da6846a16ad0625d9.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="https://i.imgur.com/cNgwmz3.jpg" group-title="SHOPPING CHANNELS NL",NL | Tommy Teleshopping,Tommy Teleshopping
+http://ms7.mx-cd.net/tv/71-1356094/Tommy_Teleshopping.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="SHOPPING CHANNELS CA",The Shopping Channel
+http://new-pro.tv:8080/Fernando/123321/69478?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="SHOPPING CHANNELS CA",The Shopping Channel
+http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFJ4kff-zY2LAUZe4gwaW2Qo?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA;US" tvg-logo="https://i.imgur.com/FlJVD8a.png" group-title="SHOPPING CHANNELS US",The Shopping Channel
+https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/FlJVD8a.png" group-title="Shop;SHOPPING CHANNELS CA",CA | The Shopping Channel,The Shopping Channel
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8?checkedby:iptvcat.com
 
