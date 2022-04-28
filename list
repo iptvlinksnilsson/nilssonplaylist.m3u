@@ -6,8 +6,6 @@ UK DISCOVERY CHANNELS
 http://mag.abcdxyz.one:80/deni1234/deni1234/12508?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK DISCOVERY",DISCOVERY TURBO
 http://mag.abcdxyz.one:80/deni1234/deni1234/113898?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK DISCOVERY",Discovery Channel FHD
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1275?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK DISCOVERY",Discovery Channel HD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/177516?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK DISCOVERY",Discovery History
@@ -18,8 +16,6 @@ http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/177517?checkedby:iptvcat.com
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/177512?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK DISCOVERY",Discovery Science HD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/177513?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK DISCOVERY",Discovery Turbo
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/15011?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK DISCOVERY",Discovery Turbo
 http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SN6eNVqR3LJVjuyQAsoKBj4/ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK DISCOVERY",Discovery Turbo HD
@@ -32,7 +28,20 @@ http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/177510?checkedby:iptvcat.com
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/177511?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK DISCOVERY",VIP Discovery FHD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/234544?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK DISCOVERY",VIP Discovery Science
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/234547?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK DISCOVERY",VIP Discovery Turbo
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/234551?checkedby:iptvcat.com
+
+UK ANIMAL PLANET
+
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK ANIMAL PLANET",ANIMAL PLANET
+http://mains.services:2086/stanleyg/6916329/72567?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK ANIMAL PLANET",ANIMAL PLANET
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SCxVIypOG5oWAFmbjbyAp98/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK ANIMAL PLANET",ANIMAL PLANET
+http://mag.abcdxyz.one:80/deni1234/deni1234/113890?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK ANIMAL PLANET",Animal Planet
+http://romanija.xyz:8080/22supertv7753/razmjena5262352/667?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK ANIMAL PLANET",Animal planet
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/134123?checkedby:iptvcat.com
+
+
