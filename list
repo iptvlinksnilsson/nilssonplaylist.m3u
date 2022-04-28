@@ -46,8 +46,18 @@ FOX LIFE
 http://mag.abcdxyz.one:80/deni1234/deni1234/113890?checkedby:iptvcat.com
 
 
-BBC EARTH
+UK BBC EARTH
 
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="BBC EARTH",BBC Earth
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK BBC EARTH",BBC Earth
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/245616?checkedby:iptvcat.com
 
+
+UK NATIONAL GEOGRAPHIC
+
+
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK NATIONAL GEOGRAPHIC",National Geographic HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/177502?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK NATIONAL GEOGRAPHIC",National Geographic
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/15012?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UK NATIONAL GEOGRAPHIC",NATIONAL GEOGRAPHIC
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SEic3ewRHNV6I6MJySD0V28/ts?checkedby:iptvcat.com
